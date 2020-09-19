@@ -46,13 +46,21 @@
            
 ## Ejercicio 3
 1 Visulización del alineamineto de las Secuencias 
+
 2 Dirigirse a la dirección (https://www.ebi.ac.uk/Tools/msa/clustalo/)
+
 3 Seleccionar el tipo de molécula a DNA.
+
 4 Pegar el contenido del archivo de secuencias o cargarlo desde la ventana que se abre al dar clic en 'Examinar'.
+
 5 Seleccionar el formato de salida a Pearson/FASTA.
+
 6 Clic en el botón de 'Submit' y esperar a los resultados.
+
 7 Descargar el alineamiento resultante dando clic derecho y 'Guardar Como... '
+
 8 Daremos clic en el botón 'Result Viewers' y después en MView
+
 9 Descargaremos también la visualización.
 
 ## Ejericicio 2 
