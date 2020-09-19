@@ -63,12 +63,12 @@
 
 9 Descargaremos también la visualización.
 
-## Ejericicio 2 
+## Ejericicio 4
 
 Vamos a utilizar la herramienta de (https://www.ebi.ac.uk/Tools/msa/mafft/)
 Repetiremos los pasos 3 al 8 de la Parte 1 de este mismo ejercicio.
 
-## Ejercicio 3 
+## Ejercicio 5 
 
 Dirigirse a la herramienta de (https://www.ebi.ac.uk/Tools/msa/tcoffee/)
 Repetiremos los pasos 3 al 8 de la Parte 1 de este mismo ejercicio.
