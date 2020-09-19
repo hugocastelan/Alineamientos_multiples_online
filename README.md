@@ -1,11 +1,9 @@
-# Alineamientos_multiples_online
-
-
-
-## Alineamiento Múltiples de Secuencias
+# Alineamiento Múltiple de Secuencias
 
 ### Descripción
 Los métodos de alineamiento múltiple de secuencias, utilizando el algoritmo de alineamiento global con las secuencias del gen rpb2 o el gen ha1 que ya hemos descargado previamente.
+
+
 
 ### Ejercicio 1 
 Dirigirse a la dirección (https://www.ebi.ac.uk/Tools/msa/clustalo/)
@@ -17,11 +15,12 @@ Descargar el alineamiento resultante dando clic derecho y 'Guardar Como... '
 Daremos clic en el botón 'Result Viewers' y después en MView
 Descargaremos también la visualización.
 
-## Instrucciones (Parte 2)
+## Ejericicio 2 
 
 Vamos a utilizar la herramienta de (https://www.ebi.ac.uk/Tools/msa/mafft/)
 Repetiremos los pasos 3 al 8 de la Parte 1 de este mismo ejercicio.
-## Instrucciones (Parte 3)
+
+## Ejercicio 3 
 
 Dirigirse a la herramienta de (https://www.ebi.ac.uk/Tools/msa/tcoffee/)
 Repetiremos los pasos 3 al 8 de la Parte 1 de este mismo ejercicio.
