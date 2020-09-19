@@ -5,6 +5,8 @@ Los métodos de alineamiento múltiple de secuencias, utilizando el algoritmo de
 
 ## Ejercicio 1
 
+## Alineamiento de secuencia de proteínas 
+
 1 Realiza un blast a la siguiente secuencia  
 
        >uniprot
@@ -16,11 +18,14 @@ Los métodos de alineamiento múltiple de secuencias, utilizando el algoritmo de
 
 2 ¿A qué secuencia corresponde?
 
-3 Reporta los resultods de E-value y porcentaje de identidad. 
+3 Reporta los resultados de E-value y porcentaje de identidad. 
 
-3 Descargar las FASTA alineado, para esto hay que descargar FASTA(aligned sequences) 
+4 Descargar las FASTA alineado, para esto hay que descargar FASTA(aligned sequences) 
 
-4 Realiza un blast a la siguiente secuencia  
+## Ejercicio 2
+## Alineamiento de secuencia de nucleótidos 
+
+1 Realiza un blast a la siguiente secuencia  
 
          >sequence
          GGACATCTGGGTGACAAGAGAACCTTATGTGTCATGCGATCCTGACAAGTGTTATCAATTTGCCCTTGGA
@@ -29,14 +34,17 @@ Los métodos de alineamiento múltiple de secuencias, utilizando el algoritmo de
          TTGTCACGATGGAAAAGCATGGCTGCATGTTTGTATAACGGGGGATGATAAAAATGCAACTGCTAGCTTC
          ATTTACAATGGGAGGCTTGTAGATAGTGTTGTTTCATGGTCCAAAGAAATCCTCAGGACCCAGGAG
          
-2 ¿A qué secuencia corresponde?
+2 ¿A qué organismo corresponde? 
 
-3 Reporta los resultods de E-value y porcentaje de identidad.
+3 ¿Cuál es la publicación asociada? 
 
-3 Descargar las FASTA alineado, para esto hay que descargar FASTA(aligned sequences) 
+4 ¿Cuál es la fuente de aislamiento? 
+
+5 Reporta los resultados de E-value y porcentaje de identidad.
+
+6  Descargar las FASTA alineado, para esto hay que descargar FASTA(aligned sequences) 
            
-
-## Ejercicio 2 
+## Ejercicio 3
 Visulización del alineamineto de las Secuencias 
 Dirigirse a la dirección (https://www.ebi.ac.uk/Tools/msa/clustalo/)
 Seleccionar el tipo de molécula a DNA.
