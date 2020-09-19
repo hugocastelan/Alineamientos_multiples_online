@@ -1,11 +1,22 @@
 # Alineamiento Múltiple de Secuencias
 
-### Descripción
-Los métodos de alineamiento múltiple de secuencias, utilizando el algoritmo de alineamiento global con las secuencias del gen rpb2 o el gen ha1 que ya hemos descargado previamente.
+### Descripción 
+Los métodos de alineamiento múltiple de secuencias, utilizando el algoritmo de alineamiento global con las secuencias del gen rpb2 o el gen ha1 que ya hem
 
+## Ejercicio 1
 
+1.- Realiza un blast a la siguiente secuencia  
 
-### Ejercicio 1 
+       >uniprot
+       MNYSKIPAQMKWVGRAERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAE
+       FSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDH
+       WIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQ
+       YRLIVHNGYCDGRSERNLL
+
+2.- A qué secuencia corresponde 
+3.- Descargar las FASTA alineado, para esto hay que descargar FASTA(aligned sequences) 
+
+## Ejercicio 2 
 Dirigirse a la dirección (https://www.ebi.ac.uk/Tools/msa/clustalo/)
 Seleccionar el tipo de molécula a DNA.
 Pegar el contenido del archivo de secuencias o cargarlo desde la ventana que se abre al dar clic en 'Examinar'.
