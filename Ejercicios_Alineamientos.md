@@ -5,18 +5,39 @@ Los métodos de alineamiento múltiple de secuencias, utilizando el algoritmo de
 
 ## Ejercicio 1
 
-1.- Realiza un blast a la siguiente secuencia  
+1 Realiza un blast a la siguiente secuencia  
 
        >uniprot
        MNYSKIPAQMKWVGRAERDCRVSSFRVKENFDKARFSGTWYAMAKKDPEGLFLQDNIVAE
        FSVDETGQMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDH
        WIVDTDYDTYAVQYSCRLLNLDGTCADSYSFVFSRDPNGLPPEAQKIVRQRQEELCLARQ
        YRLIVHNGYCDGRSERNLL
+       
 
-2.- A qué secuencia corresponde 
-3.- Descargar las FASTA alineado, para esto hay que descargar FASTA(aligned sequences) 
+2 ¿A qué secuencia corresponde?
+
+3 Reporta los resultods de E-value y porcentaje de identidad. 
+
+3 Descargar las FASTA alineado, para esto hay que descargar FASTA(aligned sequences) 
+
+4 Realiza un blast a la siguiente secuencia  
+
+         >sequence
+         GGACATCTGGGTGACAAGAGAACCTTATGTGTCATGCGATCCTGACAAGTGTTATCAATTTGCCCTTGGA
+         CAGGGAACAACACTAAACAACGTGCATTCAAATAACACAGTACGTGACAGGACCCCTTATCGGACCCTAT
+         TGATGAATGAGTTAGGTGTTCCTTTTCATCTGGGGACCAAGCAAGTGTGCATAGCATGGTCCAGCTCAAG
+         TTGTCACGATGGAAAAGCATGGCTGCATGTTTGTATAACGGGGGATGATAAAAATGCAACTGCTAGCTTC
+         ATTTACAATGGGAGGCTTGTAGATAGTGTTGTTTCATGGTCCAAAGAAATCCTCAGGACCCAGGAG
+         
+2 ¿A qué secuencia corresponde?
+
+3 Reporta los resultods de E-value y porcentaje de identidad.
+
+3 Descargar las FASTA alineado, para esto hay que descargar FASTA(aligned sequences) 
+           
 
 ## Ejercicio 2 
+Visulización del alineamineto de las Secuencias 
 Dirigirse a la dirección (https://www.ebi.ac.uk/Tools/msa/clustalo/)
 Seleccionar el tipo de molécula a DNA.
 Pegar el contenido del archivo de secuencias o cargarlo desde la ventana que se abre al dar clic en 'Examinar'.
